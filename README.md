@@ -9,12 +9,24 @@ Input: `Hello, there`
 
 Output: `HELLO, THERE`
 
+```
+var string = "Hello, there"
+print(string.uppercased())
+```
 2. **Given a String, return a String alternating between uppercase and lowercase letters**
-
 
 Input: `Hello, there`
 
 Output: `HeLlO, tHeRe`
+
+```
+func alternatedUpperNLower(letter: [Strings])-> [Strings] {
+
+    for char in letter 
+}
+
+
+```
 
 
 3. **Given a String, return a String with all occurrences of a given letter removed**
@@ -23,21 +35,30 @@ Input: `Hello, there`
 
 Output: `Hllo, thr`
 
+```
 
+```
 ## Arrays
-
-
 1. **Given an array of type [Int], return the largest element**
 
 Input: `[1,5,2,4,1,4]`
 
 Output: `5`
 
+```
+
+```
+
 2. **Given an array of type [Int], return the smallest element**
 
 Input: `[1,5,2,4,1,4]`
 
+```
+
+```
+
 Output: `1`
+
 
 3. **Given an array of type [Int], return its sum**
 
